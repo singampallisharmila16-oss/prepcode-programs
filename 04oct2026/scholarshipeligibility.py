@@ -1,0 +1,1 @@
+percentage=float(int(input("enter student percentage: ")))
