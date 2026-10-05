@@ -1,0 +1,5 @@
+i1 = float(input("Enter internal 1: "))
+i2 = float(input("Enter internal 2: "))
+i3 = float(input("Enter internal 3: "))
+a = float(input("Enter assignment: "))
+print(f"The final score average is: {(i1 + i2 + i3 + a) / 4}")
