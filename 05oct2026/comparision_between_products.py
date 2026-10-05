@@ -1,0 +1,5 @@
+p1 = float(input("Enter price 1: "))
+p2 = float(input("Enter price 2: "))
+if p1 < p2: print("The first product is cheaper.")
+elif p1 > p2: print("The first product is more expensive.")
+else: print("Both products have the same price.")
