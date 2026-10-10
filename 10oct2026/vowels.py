@@ -1,5 +1,5 @@
-words="Hello world! 123"
-vowels_count != 0
+words="Hippopotamus"
+vowels_count = 0
 
 vowels = ["a","e","i","o","u"]
 for i in vowels:
