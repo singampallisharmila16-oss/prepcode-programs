@@ -1,3 +1,3 @@
-num="1234"
-rev="".join(reversed(num))
-print(rev)
+num=12345
+num=str(num)
+print(int(num[::-1]))
