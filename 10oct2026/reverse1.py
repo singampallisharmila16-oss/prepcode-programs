@@ -1,4 +1,4 @@
-num=12345
+num=12345 
 rev=0
 while(num>0):
     last_value=num%10
