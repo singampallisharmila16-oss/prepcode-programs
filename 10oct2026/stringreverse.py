@@ -1,3 +1,3 @@
-num=1234
-tuple(reverse(1234))
-print(num)
+num="1234"
+rev="".join(reversed(num))
+print(rev)
