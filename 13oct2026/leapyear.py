@@ -9,4 +9,8 @@ class Solution:
         else:
             return False
         
+obj = Solution()
+print(obj.isLeapYear(2024))
+print(obj.isLeapYear(3000))
+
 
